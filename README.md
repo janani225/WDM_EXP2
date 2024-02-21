@@ -53,5 +53,9 @@ G40,high,yes,excellent,yes
 6) Click on Start button and output will be displayed on the right side of the window.
 
 ### OUTPUT:
+![image](https://github.com/janani225/WDM_EXP2/assets/113497333/2387b451-f46b-4831-90f9-c4f1a663a822)
+
+![image](https://github.com/janani225/WDM_EXP2/assets/113497333/e3b3aa60-60a8-438e-819b-bde37e4e72cc)
 
 ### RESULT: 
+Thus the program to generate associate rules for the employee dataset using Apriori Algorithm has been accomplished successfully.
